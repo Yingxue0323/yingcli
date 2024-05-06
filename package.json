@@ -1,0 +1,22 @@
+{
+  "name": "nodecli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "yingcli": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "git-clone": "^0.2.0",
+    "node-fetch": "^2.7.0",
+    "open": "^10.1.0",
+    "shelljs": "^0.8.5"
+  }
+}
